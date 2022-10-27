@@ -1,0 +1,14 @@
+{
+  "name": "customapp",
+  "version": "1.0.0",
+  "description": "a custom app created without create react app cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "trust@riaworx.com",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.26.0"
+  }
+}
